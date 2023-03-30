@@ -6,24 +6,24 @@
 
 | Код | Наименование | Изменения |
 |-|-|-|
-| [std456](https://its.1c.ru/db/v8std#content:456:hdoc) | Тексты модулей | [Есть дополнения](./std456.MD) |
-| [std455](https://its.1c.ru/db/v8std#content:455:hdoc) | Структура модуля | [Есть дополнения](./std455.MD) |
+| [std456](https://its.1c.ru/db/v8std#content:456:hdoc) | Тексты модулей | [Есть дополнения](../std_1c/std456.MD) |
+| [std455](https://its.1c.ru/db/v8std#content:455:hdoc) | Структура модуля | [Есть дополнения](../std_1c/std455.MD) |
 | [std647](https://its.1c.ru/db/v8std#content:647:hdoc) | Имена процедур и функций | - |
 | [std453](https://its.1c.ru/db/v8std#content:453:hdoc) | Описание процедур и функций | - |
 | [std640](https://its.1c.ru/db/v8std#content:640:hdoc) | Параметры процедур и функций | - |
 | [std641](https://its.1c.ru/db/v8std#content:641:hdoc) | Особенности использования структур в качестве параметров процедур и функций | - |
 | [std454](https://its.1c.ru/db/v8std#content:454:hdoc) | Правила образования имен переменных | - |
 | [std686](https://its.1c.ru/db/v8std#content:686:hdoc) | Работа с параметром «Отказ» в обработчиках событий | - |
-| [внутр.](./std_ptb_comments.MD) | Комментарий изменений | Есть ограничения |
+| [внутр.](../std_ptb/std_ptb_comments.MD) | Комментарий изменений | Есть ограничения |
 
 ## Использование конструкций встроенного языка
 
 | Код | Наименование | Изменения |
 |-|-|-|
 | [std441](https://its.1c.ru/db/v8std#content:441:hdoc) | Общие требования к построению конструкций встроенного языка | - |
-| [std444](https://its.1c.ru/db/v8std#content:444:hdoc) | Перенос выражений | [Есть дополнения](./std444.MD) |
+| [std444](https://its.1c.ru/db/v8std#content:444:hdoc) | Перенос выражений | [Есть дополнения](../std_1c/std444.MD) |
 | [std440](https://its.1c.ru/db/v8std#content:440:hdoc) | Использование дублирующего кода | - |
-| [std439](https://its.1c.ru/db/v8std#content:439:hdoc) | Использование директив компиляции и инструкций препроцессора | [Есть дополнения](./std439.MD) |
+| [std439](https://its.1c.ru/db/v8std#content:439:hdoc) | Использование директив компиляции и инструкций препроцессора | [Есть дополнения](../std_1c/std439.MD) |
 | [std442](https://its.1c.ru/db/v8std#content:442:hdoc) | Определение типа значения переменной | - |
 | [std445](https://its.1c.ru/db/v8std#content:445:hdoc) | Получение метаданных объектов | - |
 | [std492](https://its.1c.ru/db/v8std#content:492:hdoc) | Обработчики событий модуля формы, подключаемые из кода | - |
@@ -32,7 +32,7 @@
 | [std498](https://its.1c.ru/db/v8std#content:498:hdoc) | Использование Журнала регистрации | - |
 | [std499](https://its.1c.ru/db/v8std#content:499:hdoc) | Перехват исключений в коде | - |
 | [std547](https://its.1c.ru/db/v8std#content:547:hdoc) | Ограничение на использование оператора Перейти | - |
-| [внутр.](./std_ptb_transaction.MD) | Работа с транзакциями | - |
+| [внутр.](../std_ptb/std_ptb_transaction.MD) | Работа с транзакциями | - |
 
 ## Использование прикладных объектов и универсальных коллекций значений
 

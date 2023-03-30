@@ -6,20 +6,20 @@
 
 | Код | Наименование | Изменения |
 |-|-|-|
-| [std467](https://its.1c.ru/db/v8std#content:467:hdoc) | Общие требования к конфигурации | [Есть дополнения](./std467.MD) |
+| [std467](https://its.1c.ru/db/v8std#content:467:hdoc) | Общие требования к конфигурации | [Есть дополнения](../std_1c/std467.MD) |
 | [std550](https://its.1c.ru/db/v8std#content:550:hdoc) | Имена объектов метаданных в конфигурациях | - |
 | [std643](https://its.1c.ru/db/v8std#content:643:hdoc) | Работа в разных часовых поясах | - |
 | [std470](https://its.1c.ru/db/v8std#content:470:hdoc) | Использование функциональных опций | - |
 | [std413](https://its.1c.ru/db/v8std#content:413:hdoc) | Использование параметров сеанса | - |
-| [std543](https://its.1c.ru/db/v8std#content:543:hdoc) | Использование подсистем | [Есть дополнения](./std543.MD) |
+| [std543](https://its.1c.ru/db/v8std#content:543:hdoc) | Использование подсистем | [Есть дополнения](../std_1c/std543.MD) |
 | [std677](https://its.1c.ru/db/v8std#content:677:hdoc) | Использование общих реквизитов | - |
-| [std704](https://its.1c.ru/db/v8std#content:704:hdoc) | Использование определяемых типов | [Есть дополнения](./std704.MD) |
+| [std704](https://its.1c.ru/db/v8std#content:704:hdoc) | Использование определяемых типов | [Есть дополнения](../std_1c/std704.MD) |
 | [std469](https://its.1c.ru/db/v8std#content:469:hdoc) | Правила создания общих модулей | - |
 | [std557](https://its.1c.ru/db/v8std#content:557:hdoc) | Работа с пользовательскими настройками | - |
 | [std785](https://its.1c.ru/db/v8std#content:785:hdoc) | Версия платформы 1С:Предприятие для разработки | - |
 | [std556](https://its.1c.ru/db/v8std#content:556:hdoc) | Начальные действия при работе конфигурации | - |
 | [std680](https://its.1c.ru/db/v8std#content:680:hdoc) | Поддержка толстого клиента, управляемое приложение, клиент-сервер | - |
-| [std709](https://its.1c.ru/db/v8std#content:709:hdoc) | Технология разветвленной разработки конфигураций | [Собственный стандарт](./std709.MD) |
+| [std709](https://its.1c.ru/db/v8std#content:709:hdoc) | Технология разветвленной разработки конфигураций | [Собственный стандарт](../std_1c/std709.MD) |
 | [std723](https://its.1c.ru/db/v8std#content:723:hdoc) | Особенности разработки конфигураций для ОС Linux и macOS | - |
 | [std480](https://its.1c.ru/db/v8std#content:480:hdoc) | Оформление карты маршрута бизнес-процесса | - |
 | [std706](https://its.1c.ru/db/v8std#content:706:hdoc) | Ограничения на переименование объектов метаданных | - |
@@ -38,7 +38,7 @@
 
 | Код | Наименование | Изменения |
 |-|-|-|
-| [std683](https://its.1c.ru/db/v8std#content:683:hdoc) | Общие сведения об организации хранения данных | [Есть дополнения](./std683.MD) |
+| [std683](https://its.1c.ru/db/v8std#content:683:hdoc) | Общие сведения об организации хранения данных | [Есть дополнения](../std_1c/std683.MD) |
 | [std541](https://its.1c.ru/db/v8std#content:541:hdoc) | Уточнение сущности объекта метаданных | - |
 | [std474](https://its.1c.ru/db/v8std#content:474:hdoc) | Имя, синоним, комментарий | - |
 | [std478](https://its.1c.ru/db/v8std#content:478:hdoc) | Подсказка и проверка заполнения | - |
